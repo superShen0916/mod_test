@@ -2,6 +2,6 @@ package common
 
 import "fmt"
 
-func PtintHello()  {
+func PrintHello()  {
 	fmt.Println("Hello")
 }
