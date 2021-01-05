@@ -1,3 +1,3 @@
-module github.com/PennShawn/mod_test
+module github.com/shenpeng/test
 
 go 1.14
