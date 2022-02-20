@@ -2,6 +2,7 @@ package common
 
 import "fmt"
 
-func PrintHello()  {
+func PrintHello() {
+	
 	fmt.Println("Hello 4")
 }
