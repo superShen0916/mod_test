@@ -16,3 +16,8 @@ func PrintHello3() {
 
 	fmt.Println("Hello 4")
 }
+
+func PrintHello4() {
+
+	fmt.Println("Hello 4")
+}
